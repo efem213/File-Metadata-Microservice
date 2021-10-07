@@ -11,7 +11,7 @@ If you want to try the converter, open [this link on Replit](https://boilerplate
 
 #### Test the app
 
-To test the app, just run ```npm test``` (after ```npm i```, of course).
+To test the app, just run ```npm start``` (after ```npm i```, of course).
 
 ---
 
